@@ -11,3 +11,5 @@ Simply fill in your config file and use the chat commands in-game:
 - come - sends the bot to you
 - kill username - tries to attack and kill the user with the name you said
 Will likely need updating.
+
+The bot will try to automatically equip armour and weapons you give to it.
